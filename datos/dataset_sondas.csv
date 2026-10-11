@@ -1,0 +1,201 @@
+texto,etiqueta,polaridad,topico
+Lima es la capital de Perú.,1,1,geografia
+Lima no es la capital de Perú.,0,-1,geografia
+Lima es la capital de Chile.,0,1,geografia
+Lima no es la capital de Chile.,1,-1,geografia
+París es la capital de Francia.,1,1,geografia
+París no es la capital de Francia.,0,-1,geografia
+París es la capital de Italia.,0,1,geografia
+París no es la capital de Italia.,1,-1,geografia
+Tokio es la capital de Japón.,1,1,geografia
+Tokio no es la capital de Japón.,0,-1,geografia
+Tokio es la capital de China.,0,1,geografia
+Tokio no es la capital de China.,1,-1,geografia
+Madrid es la capital de España.,1,1,geografia
+Madrid no es la capital de España.,0,-1,geografia
+Madrid es la capital de Portugal.,0,1,geografia
+Madrid no es la capital de Portugal.,1,-1,geografia
+El río Amazonas está en Sudamérica.,1,1,geografia
+El río Amazonas no está en Sudamérica.,0,-1,geografia
+El río Amazonas está en Europa.,0,1,geografia
+El río Amazonas no está en Europa.,1,-1,geografia
+El Sahara es un desierto de África.,1,1,geografia
+El Sahara no es un desierto de África.,0,-1,geografia
+El Sahara es un desierto de Oceanía.,0,1,geografia
+El Sahara no es un desierto de Oceanía.,1,-1,geografia
+El Everest es la montaña más alta.,1,1,geografia
+El Everest no es la montaña más alta.,0,-1,geografia
+El Everest es el río más largo.,0,1,geografia
+El Everest no es el río más largo.,1,-1,geografia
+Machu Picchu está en Perú.,1,1,geografia
+Machu Picchu no está en Perú.,0,-1,geografia
+Machu Picchu está en Bolivia.,0,1,geografia
+Machu Picchu no está en Bolivia.,1,-1,geografia
+El volcán Misti está cerca de Arequipa.,1,1,geografia
+El volcán Misti no está cerca de Arequipa.,0,-1,geografia
+El volcán Misti está cerca de Lima.,0,1,geografia
+El volcán Misti no está cerca de Lima.,1,-1,geografia
+La Antártida está cubierta de hielo.,1,1,geografia
+La Antártida no está cubierta de hielo.,0,-1,geografia
+La Antártida está cubierta de arena.,0,1,geografia
+La Antártida no está cubierta de arena.,1,-1,geografia
+El agua hierve a cien grados Celsius.,1,1,ciencia
+El agua no hierve a cien grados Celsius.,0,-1,ciencia
+El agua hierve a veinte grados Celsius.,0,1,ciencia
+El agua no hierve a veinte grados Celsius.,1,-1,ciencia
+El Sol es una estrella.,1,1,ciencia
+El Sol no es una estrella.,0,-1,ciencia
+El Sol es un planeta.,0,1,ciencia
+El Sol no es un planeta.,1,-1,ciencia
+La Luna orbita la Tierra.,1,1,ciencia
+La Luna no orbita la Tierra.,0,-1,ciencia
+La Luna orbita Marte.,0,1,ciencia
+La Luna no orbita Marte.,1,-1,ciencia
+El hielo es agua en estado sólido.,1,1,ciencia
+El hielo no es agua en estado sólido.,0,-1,ciencia
+El hielo es agua en estado gaseoso.,0,1,ciencia
+El hielo no es agua en estado gaseoso.,1,-1,ciencia
+La gravedad atrae los objetos al suelo.,1,1,ciencia
+La gravedad no atrae los objetos al suelo.,0,-1,ciencia
+La gravedad empuja los objetos al cielo.,0,1,ciencia
+La gravedad no empuja los objetos al cielo.,1,-1,ciencia
+La luz viaja más rápido que el sonido.,1,1,ciencia
+La luz no viaja más rápido que el sonido.,0,-1,ciencia
+La luz viaja más lento que el sonido.,0,1,ciencia
+La luz no viaja más lento que el sonido.,1,-1,ciencia
+El oxígeno es un gas a temperatura ambiente.,1,1,ciencia
+El oxígeno no es un gas a temperatura ambiente.,0,-1,ciencia
+El oxígeno es un metal sólido.,0,1,ciencia
+El oxígeno no es un metal sólido.,1,-1,ciencia
+El hidrógeno es el elemento más abundante.,1,1,ciencia
+El hidrógeno no es el elemento más abundante.,0,-1,ciencia
+El hidrógeno es el elemento más pesado.,0,1,ciencia
+El hidrógeno no es el elemento más pesado.,1,-1,ciencia
+El diamante está hecho de carbono.,1,1,ciencia
+El diamante no está hecho de carbono.,0,-1,ciencia
+El diamante está hecho de queso.,0,1,ciencia
+El diamante no está hecho de queso.,1,-1,ciencia
+El cobre conduce la electricidad.,1,1,ciencia
+El cobre no conduce la electricidad.,0,-1,ciencia
+El cobre aísla la electricidad.,0,1,ciencia
+El cobre no aísla la electricidad.,1,-1,ciencia
+El corazón bombea sangre.,1,1,biologia
+El corazón no bombea sangre.,0,-1,biologia
+El corazón bombea aire.,0,1,biologia
+El corazón no bombea aire.,1,-1,biologia
+Las plantas realizan la fotosíntesis.,1,1,biologia
+Las plantas no realizan la fotosíntesis.,0,-1,biologia
+Las plantas se alimentan de carne.,0,1,biologia
+Las plantas no se alimentan de carne.,1,-1,biologia
+Los pingüinos son aves.,1,1,biologia
+Los pingüinos no son aves.,0,-1,biologia
+Los pingüinos son reptiles.,0,1,biologia
+Los pingüinos no son reptiles.,1,-1,biologia
+Las ballenas son mamíferos.,1,1,biologia
+Las ballenas no son mamíferos.,0,-1,biologia
+Las ballenas son peces.,0,1,biologia
+Las ballenas no son peces.,1,-1,biologia
+Las arañas tienen ocho patas.,1,1,biologia
+Las arañas no tienen ocho patas.,0,-1,biologia
+Las arañas tienen doce patas.,0,1,biologia
+Las arañas no tienen doce patas.,1,-1,biologia
+El murciélago es un mamífero que vuela.,1,1,biologia
+El murciélago no es un mamífero que vuela.,0,-1,biologia
+El murciélago es un tipo de pájaro.,0,1,biologia
+El murciélago no es un tipo de pájaro.,1,-1,biologia
+La miel la producen las abejas.,1,1,biologia
+La miel no la producen las abejas.,0,-1,biologia
+La miel la producen las hormigas.,0,1,biologia
+La miel no la producen las hormigas.,1,-1,biologia
+Los gatos son felinos.,1,1,biologia
+Los gatos no son felinos.,0,-1,biologia
+Los gatos son caninos.,0,1,biologia
+Los gatos no son caninos.,1,-1,biologia
+La piel es el órgano más grande.,1,1,biologia
+La piel no es el órgano más grande.,0,-1,biologia
+La piel es un órgano interno diminuto.,0,1,biologia
+La piel no es un órgano interno diminuto.,1,-1,biologia
+El guepardo es el animal terrestre más rápido.,1,1,biologia
+El guepardo no es el animal terrestre más rápido.,0,-1,biologia
+El guepardo es el animal más lento.,0,1,biologia
+El guepardo no es el animal más lento.,1,-1,biologia
+Un triángulo tiene tres lados.,1,1,matematica
+Un triángulo no tiene tres lados.,0,-1,matematica
+Un triángulo tiene cuatro lados.,0,1,matematica
+Un triángulo no tiene cuatro lados.,1,-1,matematica
+Un cuadrado tiene cuatro lados iguales.,1,1,matematica
+Un cuadrado no tiene cuatro lados iguales.,0,-1,matematica
+Un cuadrado tiene tres lados redondos.,0,1,matematica
+Un cuadrado no tiene tres lados redondos.,1,-1,matematica
+Un círculo tiene trescientos sesenta grados.,1,1,matematica
+Un círculo no tiene trescientos sesenta grados.,0,-1,matematica
+Un círculo tiene ciento ochenta grados.,0,1,matematica
+Un círculo no tiene ciento ochenta grados.,1,-1,matematica
+El número ocho es un número par.,1,1,matematica
+El número ocho no es un número par.,0,-1,matematica
+El número ocho es un número impar.,0,1,matematica
+El número ocho no es un número impar.,1,-1,matematica
+Cien es mayor que cincuenta.,1,1,matematica
+Cien no es mayor que cincuenta.,0,-1,matematica
+Cien es menor que cincuenta.,0,1,matematica
+Cien no es menor que cincuenta.,1,-1,matematica
+Un minuto tiene sesenta segundos.,1,1,matematica
+Un minuto no tiene sesenta segundos.,0,-1,matematica
+Un minuto tiene cien segundos.,0,1,matematica
+Un minuto no tiene cien segundos.,1,-1,matematica
+Una docena equivale a doce unidades.,1,1,matematica
+Una docena no equivale a doce unidades.,0,-1,matematica
+Una docena equivale a quince unidades.,0,1,matematica
+Una docena no equivale a quince unidades.,1,-1,matematica
+Un siglo tiene cien años.,1,1,matematica
+Un siglo no tiene cien años.,0,-1,matematica
+Un siglo tiene diez años.,0,1,matematica
+Un siglo no tiene diez años.,1,-1,matematica
+El sistema binario usa los dígitos cero y uno.,1,1,matematica
+El sistema binario no usa los dígitos cero y uno.,0,-1,matematica
+El sistema binario usa los dígitos ocho y nueve.,0,1,matematica
+El sistema binario no usa los dígitos ocho y nueve.,1,-1,matematica
+Un año bisiesto tiene trescientos sesenta y seis días.,1,1,matematica
+Un año bisiesto no tiene trescientos sesenta y seis días.,0,-1,matematica
+Un año bisiesto tiene trescientos días.,0,1,matematica
+Un año bisiesto no tiene trescientos días.,1,-1,matematica
+La Gran Muralla está en China.,1,1,cultura
+La Gran Muralla no está en China.,0,-1,cultura
+La Gran Muralla está en Alemania.,0,1,cultura
+La Gran Muralla no está en Alemania.,1,-1,cultura
+La Torre Eiffel está en París.,1,1,cultura
+La Torre Eiffel no está en París.,0,-1,cultura
+La Torre Eiffel está en Londres.,0,1,cultura
+La Torre Eiffel no está en Londres.,1,-1,cultura
+Las pirámides de Guiza están en Egipto.,1,1,cultura
+Las pirámides de Guiza no están en Egipto.,0,-1,cultura
+Las pirámides de Guiza están en Canadá.,0,1,cultura
+Las pirámides de Guiza no están en Canadá.,1,-1,cultura
+Einstein fue un físico.,1,1,cultura
+Einstein no fue un físico.,0,-1,cultura
+Einstein fue un pintor.,0,1,cultura
+Einstein no fue un pintor.,1,-1,cultura
+La penicilina la descubrió Fleming.,1,1,cultura
+La penicilina no la descubrió Fleming.,0,-1,cultura
+La penicilina la descubrió Newton.,0,1,cultura
+La penicilina no la descubrió Newton.,1,-1,cultura
+El piano es un instrumento musical.,1,1,cultura
+El piano no es un instrumento musical.,0,-1,cultura
+El piano es una fruta tropical.,0,1,cultura
+El piano no es una fruta tropical.,1,-1,cultura
+El ajedrez se juega en un tablero.,1,1,cultura
+El ajedrez no se juega en un tablero.,0,-1,cultura
+El ajedrez se juega con dados.,0,1,cultura
+El ajedrez no se juega con dados.,1,-1,cultura
+Australia es país y continente.,1,1,cultura
+Australia no es país y continente.,0,-1,cultura
+Australia es una isla de Oceanía pequeña.,0,1,cultura
+Australia no es una isla de Oceanía pequeña.,1,-1,cultura
+El petróleo es un combustible fósil.,1,1,cultura
+El petróleo no es un combustible fósil.,0,-1,cultura
+El petróleo es un recurso renovable diario.,0,1,cultura
+El petróleo no es un recurso renovable diario.,1,-1,cultura
+El alfabeto español tiene la letra eñe.,1,1,cultura
+El alfabeto español no tiene la letra eñe.,0,-1,cultura
+El alfabeto español no tiene vocales.,0,1,cultura
+El alfabeto español no no tiene vocales.,1,-1,cultura
